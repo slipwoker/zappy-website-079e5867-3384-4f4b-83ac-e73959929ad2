@@ -1,0 +1,84 @@
+# קלולי — Generative Engine Optimization Map
+
+> Kaluli is a restaurant brand with a modern and light aesthetic. The landing page should reflect a fresh, airy, and contemporary vibe, culminating in a reservation section that allows guests to book a table easily. The overall feel is approachable yet stylish, suggesting a dining experience that is both casual and refined.
+
+---
+
+## Pages
+
+### בית
+https://-079e5867.zappy5.app
+גלו חוויית אוכל מודרנית, קלילה ומלאת סטייל בקלולי. מסעדת מזון מהיר כשרה עם אווירה עכשווית ומנות מעודנות. הזמינו שולחן עוד היום והתחילו לטעום!
+
+### חוויית אוכל
+https://-079e5867.zappy5.app/dining-experience
+צללו לעולם של טעמים מפתיעים בחוויית האוכל של קלולי. תפריט מזון מהיר כשר המשלב רעננות, איכות ועיצוב עכשווי. בואו לחוש את ההבדל בכל ביס!
+
+### אודות
+https://-079e5867.zappy5.app/about
+מאחורי קלולי עומדת תשוקה לאוכל מזון מהיר כשר שמרגיש כמו ארוחת שף. גלו את החזון, הערכים והאנשים שיוצרים עבורכם חוויית אוכל מודרנית ומזמינה. קראו עוד!
+
+### צור קשר והזמנות
+https://-079e5867.zappy5.app/contact
+מוכנים לחוויית אוכל קלילה ומעוררת? צרו קשר עם קלולי והזמינו שולחן בקלות. מסעדת מזון מהיר כשרה שמחכה לכם. מקומות מוגבלים — הזמינו עכשיו!
+
+### תודה שפניתם אלינו
+https://-079e5867.zappy5.app/thank-you
+קלולי - תודה שפניתם אלינו
+
+## Legal & Policy
+
+### Privacy Policy
+https://-079e5867.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://-079e5867.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://-079e5867.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## How to Contact Us
+
+- (No contact details configured yet.)
+
+### Contact form
+- URL: https://-079e5867.zappy5.app/contact
+- Endpoint: https://-079e5867.zappy5.app/api/email/contact-form
+- Method: POST
+- Content-Type: application/json
+- Fields:
+  - `name` (text)
+  - `email` (email)
+  - `phone` (tel)
+  - `message` (textarea)
+  - `privacy_consent` (checkbox)
+
+---
+
+# Business Context (for LLM understanding)
+
+## About קלולי
+Kaluli is a restaurant brand with a modern and light aesthetic. The landing page should reflect a fresh, airy, and contemporary vibe, culminating in a reservation section that allows guests to book a table easily. The overall feel is approachable yet stylish, suggesting a dining experience that is both casual and refined.
+
+## Target Audience
+- חובבי אוכל גורמה
+- מקצוענים צעירים
+- משפחות מחפשות בילוי
+- זוגות ליהנות מערב רומנטי
+- נוודים דיגיטליים
+
+## Industry
+Restaurant
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://-079e5867.zappy5.app/sitemap.xml
+- Robots: https://-079e5867.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://-079e5867.zappy5.app/llms-full.txt
